@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe364b6d.css",
+    "main.js": "/static/js/main.d277a6ff.js",
+    "static/js/453.670e15c7.chunk.js": "/static/js/453.670e15c7.chunk.js",
+    "static/media/banner1.png": "/static/media/banner1.41f0df7983877f724f79.png",
+    "static/media/sobnos1.png": "/static/media/sobnos1.ae7e2c3bc00b3a833d5b.png",
+    "static/media/sobnos2.png": "/static/media/sobnos2.ac3e3ab115f81839a415.png",
+    "static/media/sobnos3.png": "/static/media/sobnos3.846afc1e20a2d6cb1475.png",
+    "static/media/sobnos4.png": "/static/media/sobnos4.088ef8a135e94472b98f.png",
+    "static/media/pedcrato.png": "/static/media/pedcrato.976e4c39d17feb1174dc.png",
+    "static/media/atvdestaq3.png": "/static/media/atvdestaq3.06a10a25d3a977db004d.png",
+    "static/media/atvdestaq4.png": "/static/media/atvdestaq4.e705851ae8b41b5c6e78.png",
+    "static/media/atvdestaq2.png": "/static/media/atvdestaq2.825e239a4e1c5dd8ee34.png",
+    "static/media/atvdestaq1.png": "/static/media/atvdestaq1.6f109be4cace0698141b.png",
+    "static/media/logo.avif": "/static/media/logo.4e4914dd96d8132d4c19.avif",
+    "index.html": "/index.html",
+    "main.fe364b6d.css.map": "/static/css/main.fe364b6d.css.map",
+    "main.d277a6ff.js.map": "/static/js/main.d277a6ff.js.map",
+    "453.670e15c7.chunk.js.map": "/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe364b6d.css",
+    "static/js/main.d277a6ff.js"
+  ]
+}
